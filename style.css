@@ -1,0 +1,50 @@
+body{
+    background-color: aqua;
+}
+.pictureN1{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(59, 59, 224);
+    border-radius: 20px;
+    margin-left: 10px;
+}
+.pictureN2{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(9, 236, 236);
+    border-radius: 20px;
+    margin-left: 10px;
+}
+.pictureN3{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(200, 233, 15);
+    border-radius: 20px;
+    margin-left: 10px;
+}
+.pictureN4{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(224, 152, 59);
+    border-radius: 20px;
+    margin-left: 10px;
+}
+.pictureN5{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(224, 59, 108);
+    border-radius: 20px;
+    margin-left: 10px;
+}
+.pictureN6{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(224, 59, 155);
+    border-radius: 20px;
+    margin-left: 10px;
+}
+.container{
+    display:flex
+}
+
+
